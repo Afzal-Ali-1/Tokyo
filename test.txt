@@ -1,0 +1,17 @@
+Git config --list
+
+
+---> user.email 
+----> user.name
+
+
+Git config --global user.name "Afzal"
+Git config --global user.email "a@gmail"
+
+Git init 
+Git add file_name
+Git status
+Git add .
+Git commit -m "message"
+Git remote add origin URL
+Git push origin main/master               
